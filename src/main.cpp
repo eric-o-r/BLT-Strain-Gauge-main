@@ -19,20 +19,14 @@ void loop() {
    float voltage2 = sensorValue2 * (5.0 / 1023.0);
       float voltage3 = sensorValue3 * (5.0 / 1023.0);
 
-  // print out the value you read:
-   // Serial.println(voltage);
-        //Serial.println(voltage2);
-//Serial.print("Voltage Difference");
-//delay(750);
-//Serial.print("\t");
+// Measures voltage across bridge
 Serial.print(" Voltage difference: ");
   Serial.print(voltage2-voltage);
   delay(1000);
+  //Measures amplified voltage from operatiom amplifier
 Serial.print(" Voltage difference with Op Amp: ");
   Serial.print(voltage3);
   delay(1000);
-  //Serial.print("Voltage at 1");
-  //Serial.print(voltage);
   Serial.println();
 
   // Math to obtain the resistance from the change in voltage measured above
