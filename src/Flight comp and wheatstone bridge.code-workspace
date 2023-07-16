@@ -1,0 +1,52 @@
+{
+	"folders": [
+		{
+			"path": "../../2nd"
+		},
+		{
+			"name": "SD Module",
+			"path": "../../SD Module"
+		},
+		{
+			"name": "SD 2nd attempt",
+			"path": "../../SD 2nd attempt"
+		},
+		{
+			"name": "Strain Gauge Development",
+			"path": "../../Strain Gauge Development"
+		},
+		{
+			"name": "Strain Gauge",
+			"path": "../../Strain Gauge"
+		},
+		{
+			"name": "ADC",
+			"path": "../../ADC"
+		},
+		{
+			"name": "test",
+			"path": "../../test"
+		},
+		{
+			"name": "Test 2nd",
+			"path": "../../Test 2nd"
+		},
+		{
+			"name": "Test 3rd",
+			"path": "../../../Projects 3/Test 3rd"
+		},
+		{
+			"name": "Final Test",
+			"path": "../../Final Test"
+		},
+		{
+			"name": "Strain Gauge Teensy",
+			"path": "../../Strain Gauge Teensy"
+		},
+		{
+			"name": "Wheatstone Bridge",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
